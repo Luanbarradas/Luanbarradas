@@ -16,14 +16,14 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 </div>
 
 
-
  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Luanbarradas&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
-
 ## My Skills
+
+<img src="https://media.discordapp.net/attachments/862755920631300129/1156283108417613875/autoretrato-matrix-semfundo.gif?ex=6514680f&is=6513168f&hm=5d81065c2818678e20f094840f6dc81b3f3a5f41583946220534fbc665b787d3&=&width=670&height=670" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
 
@@ -32,8 +32,6 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-
-<img src="https://media.discordapp.net/attachments/862755920631300129/1156283108417613875/autoretrato-matrix-semfundo.gif?ex=6514680f&is=6513168f&hm=5d81065c2818678e20f094840f6dc81b3f3a5f41583946220534fbc665b787d3&=&width=670&height=670" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Other Skills:
 
@@ -49,7 +47,6 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 <div> 
 <a href="https://cubos.academy/cursos/desenvolvimento-de-software" target="_blank"><img src="https://img.shields.io/badge/Cubos%20Academy-FF1493?style=for-the-badge"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
-
 
 #### Workstation Tools:
 
