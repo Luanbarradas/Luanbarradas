@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a0f0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Barradas;I'm+23+years+old;I'm+from+Brazil;I+Graduated+Multimedia+Production;I'm+studying+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5d74ba&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Barradas;I'm+23+years+old;I'm+from+Brazil;I+Graduated+Multimedia+Production;I'm+studying+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <p align="left" style="text-align: justify">
@@ -11,8 +11,8 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luanbarradas&show_icons=true&count_private=true&hide_border=true&title_color=48D1CC&icon_color=008B8B&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanbarradas&layout=compact&hide_border=true&title_color=48D1CC&text_color=48D1CC&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luanbarradas&show_icons=true&count_private=true&hide_border=true&title_color=00a0f0&icon_color=7b8dc2&text_color=7b8dc2&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanbarradas&layout=compact&hide_border=true&title_color=00a0f0&text_color=7b8dc2&bg_color=0d1117" />
 </div>
 
 
@@ -62,4 +62,4 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 <a href="https://www.linkedin.com/in/luanbarradas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a0f0&height=120&section=footer"/>
