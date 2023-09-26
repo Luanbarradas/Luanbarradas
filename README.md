@@ -3,6 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Barradas;I'm+23+years+old;I'm+from+Brazil;I+Graduated+multimedia+production;I'm+studying+software+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
+<p align="left" style="text-align: justify">
+  
+Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, atualmente estou focado em me tornar um **Desenvolvimento de Software Full-Stack**.
+
+</p>
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luanbarradas&show_icons=true&count_private=true&hide_border=true&title_color=48D1CC&icon_color=008B8B&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanbarradas&layout=compact&hide_border=true&title_color=48D1CC&text_color=48D1CC&bg_color=0d1117" />
