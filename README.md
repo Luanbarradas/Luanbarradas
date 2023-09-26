@@ -42,7 +42,7 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
 
-#### See where I'm studying 👇
+#### Check where I'm studying 👇
 
 <div> 
 <a href="https://cubos.academy/cursos/desenvolvimento-de-software" target="_blank"><img src="https://img.shields.io/badge/Cubos%20Academy-FF1493?style=for-the-badge"  target="_blank"></a> 
