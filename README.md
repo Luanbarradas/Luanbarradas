@@ -31,6 +31,7 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 <img src="https://media.discordapp.net/attachments/862755920631300129/1156283108417613875/autoretrato-matrix-semfundo.gif?ex=6514680f&is=6513168f&hm=5d81065c2818678e20f094840f6dc81b3f3a5f41583946220534fbc665b787d3&=&width=670&height=670" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
