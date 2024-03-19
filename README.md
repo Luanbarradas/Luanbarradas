@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a0f0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5d74ba&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Barradas;I'm+23+years+old;I'm+from+Brazil;I+Graduated+in+Multimedia+Production;I'm+studying+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5d74ba&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Barradas;I'm+24+years+old;I'm+from+Brazil;B.A.+in+Multimedia+Production;I'm+studying+Software+Development;B.Sc.+in+analysis+and+systems+development+(Expected+Graduation:+2026);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <p align="left" style="text-align: justify">
 
-Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, atualmente estou focado em me tornar um **Desenvolvedor de Software Full-Stack**. 👨‍💻
+Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, atualmente estou focado em me tornar um **Desenvolvedor de Software Full-Stack** e faço faculdade de Análise e Desenvolvimento de Sistemas (ADS). 👨‍💻
 
 </p>
 
