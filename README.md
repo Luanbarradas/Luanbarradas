@@ -23,7 +23,7 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 
 ## My Skills
 
-<img src="https://media.discordapp.net/attachments/862755920631300129/1156283108417613875/autoretrato-matrix-semfundo.gif?ex=6514680f&is=6513168f&hm=5d81065c2818678e20f094840f6dc81b3f3a5f41583946220534fbc665b787d3&=&width=670&height=670" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://media.discordapp.net/attachments/1209289831172022275/1221892869439230054/autoretrato-matrix.gif?ex=66143b69&is=6601c669&hm=883a20b3a92aa2377123c230ef93da71685c574e993a59f9d4bed5245f8065e5&=&width=471&height=471" min-width="200px" max-width="200px" width="200px" align="right" alt="Autoretrato em Pixelart">
 
 #### Main Stack:
 
@@ -50,7 +50,8 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 #### Check where I'm studying 👇
 
 <div> 
-<a href="https://cubos.academy/cursos/desenvolvimento-de-software" target="_blank"><img src="https://img.shields.io/badge/Cubos%20Academy-FF1493?style=for-the-badge"  target="_blank"></a> 
+<a href="https://cubos.academy/cursos/desenvolvimento-de-software" target="_blank"><img src="https://img.shields.io/badge/Cubos%20Academy-FF1493?style=for-the-badge"  target="_blank"></a>
+<a href="https://faculdade.grancursosonline.com.br/curso/analise-e-desenvolvimento-de-sistemas/" target="_blank"><img src="https://img.shields.io/badge/Gran%20Faculdade-E0353B?style=for-the-badge"  target="_blank"></a>
 </div>&nbsp;&nbsp;
 
 #### Workstation Tools:
