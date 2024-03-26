@@ -65,7 +65,8 @@ Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, at
 
 <div> 
 <a href = "mailto:contato.barradas.luan@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luanbarradas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/luanbarradas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://www.instagram.com/luanbarradas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a0f0&height=120&section=footer"/>
