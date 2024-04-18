@@ -5,7 +5,7 @@
 
 <p align="left" style="text-align: justify">
 
-Meu nome é Luan Barradas. Sou **Produtor Multimídia** desde Março de 2023, atualmente estou focado em me tornar um **Desenvolvedor de Software Full-Stack** e faço faculdade de Análise e Desenvolvimento de Sistemas (ADS). 👨‍💻
+Meu nome é Luan Barradas. Sou Desenvolvedor Backend, formado em **Produtor Multimídia** desde Março de 2023, atualmente faço faculdade em **Análise e Desenvolvimento de Sistemas** (ADS). 👨‍💻
 
 </p>
 
