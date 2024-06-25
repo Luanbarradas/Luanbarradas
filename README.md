@@ -51,7 +51,6 @@ Meu nome é Luan Barradas. Sou Desenvolvedor Backend, formado em **Produção Mu
 
 <div> 
 <a href="https://cubos.academy/cursos/desenvolvimento-de-software" target="_blank"><img src="https://img.shields.io/badge/Cubos%20Academy-FF1493?style=for-the-badge"  target="_blank"></a>
-<a href="https://faculdade.grancursosonline.com.br/curso/analise-e-desenvolvimento-de-sistemas/" target="_blank"><img src="https://img.shields.io/badge/Gran%20Faculdade-E0353B?style=for-the-badge"  target="_blank"></a>
 <a href="https://www.youtube.com/@DesenvolvendoMe" target="_blank"><img src="https://img.shields.io/badge/Desenvolvendo%20Me-262626?style=for-the-badge"  target="_blank"></a>
 </div>&nbsp;&nbsp;
 
